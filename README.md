@@ -7,7 +7,7 @@
 레포 구조:  
 AIFFEL_quest_cr  
 ├── MainQuest  
-│   ├── Quest01  
+│　　├── Quest01  
 │   │   ├── .ipynb  
 │   │   └── README.md  
 │   ├── Quest02  
